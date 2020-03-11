@@ -153,7 +153,6 @@ The chromaticity and white point values are expressed as fractional numbers usin
 ## See also
 
 <dl> <dt>
-
 [**MSMonitorClass**](msmonitorclass.md)
 </dt> </dl>
 
